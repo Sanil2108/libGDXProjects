@@ -1,9 +1,9 @@
-# Ignore everything in repository root 
+# Ignore everything in this directory
 /*
+/*/
 
-# Files to not ignore
-!/.gitignore
+# Except this file
+!.gitignore
 
-# Folder to not ignore
-!/puppet/
+# Except folders
 !/SAT/core/src/com/sanilk/sat
